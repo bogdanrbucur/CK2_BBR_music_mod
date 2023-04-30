@@ -1,0 +1,443 @@
+song = {
+	name = "(Arabic_Strat_Map_1)_Persian_Pyjamas_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Arabic_Strat_Map_1)_Persian_Pyjamas_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Arabic_Strat_Map_2)_Sacred_Oud_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Arabic_Strat_Map_2)_Sacred_Oud_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Arabic_Strat_Map_2)_Sacred_Oud_03.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Arabic_Strat_Map_2)_Sacred_Oud_04.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Loading_1)_Time_and_Again.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Loading_2)_The_Widow.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_1)_Field_Of_Blood_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_1)_Field_Of_Blood_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_1)_Field_Of_Blood_03.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_1)_Field_Of_Blood_04.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_2)_Grey_Meadow_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_2)_Grey_Meadow_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_3)_Lilly_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_3)_Lilly_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_4)_Peter_The_Piper.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_03.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_04.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_05.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_06.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_07.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_08.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_09.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_10.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Euro_Strat_Map_5)_Devil's_Harp_11.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_1)_Olivia_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_1)_Olivia_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_2)_Vineyard_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_2)_Vineyard_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_3)_Whispers_In_The_Grove_01.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "(Mediterranean_Strat_Map_3)_Whispers_In_The_Grove_02.ogg"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+
+song = {
+	name = "01_O_Admirabile_Commercium.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "04_Ave_Maria.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "05_Now_Make_We_Joy.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "11_Psallite_Unigenito.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "11_Sequence_Missus_Gabriel_de_Celis.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "12_In_Dulci_Jubilo.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "13_E_la_Don_Don.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
+
+song = {
+	name = "14_Riu_Riu_Chiu.ogg"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0 
+			NOT = {	religion_group = christian }
+			NOT = {	religion_group = jewish_group }
+		}		
+	}
+}
